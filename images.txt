@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 zookeeper:3.8.3
-
+--platform=linux/arm64 minio/minio:RELEASE.2023-08-16T20-17-30Z
