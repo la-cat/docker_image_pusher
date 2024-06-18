@@ -7,5 +7,13 @@
 
 #zookeeper:3.8.3
 #--platform=linux/arm64 minio/minio:RELEASE.2023-08-16T20-17-30Z
-neosmemo/memos:stable
-neosmemo/memos:0.22
+
+#neosmemo/memos:stable
+#neosmemo/memos:0.22
+
+# 夜莺
+mysql:8
+redis:6.2
+victoriametrics/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
