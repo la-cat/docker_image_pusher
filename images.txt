@@ -12,8 +12,10 @@
 #neosmemo/memos:0.22
 
 # 夜莺
-mysql:8
-redis:6.2
-victoriametrics/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:latest
-flashcatcloud/categraf:latest
+#mysql:8
+#redis:6.2
+#victoriametrics/victoria-metrics:v1.79.12
+#flashcatcloud/nightingale:latest
+#flashcatcloud/categraf:latest
+mongo:4.2
+mongo:4.4
