@@ -35,4 +35,5 @@
 #--platform=linux/arm64/v8 gradle:8.1.1-jdk8
 #--platform=linux/arm64/v8 openjdk:8-jdk-alpine
 #--platform=linux/arm64/v8 node:16.20.2
---platform=linux/arm64/v8  node:14.21-buster-slim
+#--platform=linux/arm64/v8  node:14.21-buster-slim
+node:14.21-buster-slim
