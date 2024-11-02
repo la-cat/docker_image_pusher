@@ -40,4 +40,4 @@
 #--platform=linux/arm64/v8 redis:5-alpine
 #--platform=linux/arm64 mongo:4
 --platform=linux/arm64 goodideal/node:14
---platform=linux/arm64 goodideal/ci-meteor:1.12.2
+--platform=linux/arm64 goodideal/ci-meteor:1.12.2-20230821
